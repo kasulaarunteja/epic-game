@@ -1,6 +1,7 @@
 Epic Games
 Epic Games, Inc. is an American video games and software developer and publisher . Epic Games develops the Unreal Engine , a commercially available game engine which also powers their internally developed video games, such as Fortnite and the Unreal , Gears of War and Infinity Blade series. We have tried to clone the website using HTML5, CSS, Javascript DOM and Advanced JavaScript. This was a collaborative project at MASAI school.
 
+
 Pages Build
 1.Landing Page
 2.Browse Page
